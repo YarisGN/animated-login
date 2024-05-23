@@ -3,7 +3,7 @@
 Aplicación web de un login animado, con un fondo en movimiento.
 
 
-## Capturas de Pantalla
+## Captura de Pantalla
 
 ![Alt text](captura_de_pantalla.png)
 
