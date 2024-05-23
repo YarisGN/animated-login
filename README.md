@@ -1,6 +1,6 @@
-# banco_usuarios
+# Login animado
 
-Aplicación web de un login animado.
+Aplicación web de un login animado, con un fondo en movimiento.
 
 
 ## Capturas de Pantalla
